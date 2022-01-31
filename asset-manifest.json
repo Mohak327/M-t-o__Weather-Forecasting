@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Meteo/static/css/main.fb1481dd.chunk.css",
+    "main.js": "/Meteo/static/js/main.013a32ff.chunk.js",
+    "runtime-main.js": "/Meteo/static/js/runtime-main.e2ffa82f.js",
+    "static/js/2.217d6a82.chunk.js": "/Meteo/static/js/2.217d6a82.chunk.js",
+    "index.html": "/Meteo/index.html",
+    "static/js/2.217d6a82.chunk.js.LICENSE.txt": "/Meteo/static/js/2.217d6a82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2ffa82f.js",
+    "static/js/2.217d6a82.chunk.js",
+    "static/css/main.fb1481dd.chunk.css",
+    "static/js/main.013a32ff.chunk.js"
+  ]
+}
